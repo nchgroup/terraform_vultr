@@ -11,8 +11,8 @@ You need the following requisites
 ## How do you use it
 
 ```bash
-git clone git@gitlab.com:_ksha/vps_fw.git
-cd vps_fw
+git clone https://github.com/nchgroup/terraform_vultr
+cd terraform_vultr
 terraform init
 ```
 
