@@ -1,0 +1,7 @@
+vultr_firewall_groupname="example_fw_vps"
+fw_rule_protocol="tcp"
+fw_rule_ip_type="v4"
+fw_rule_subnet="0.0.0.0"	
+fw_rule_subnet_size="0"
+fw_rule_port="443"
+fw_rule_notes="My custom rule"
